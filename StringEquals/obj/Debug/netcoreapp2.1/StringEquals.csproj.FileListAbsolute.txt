@@ -1,0 +1,11 @@
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\bin\Debug\netcoreapp2.1\StringEquals.deps.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\bin\Debug\netcoreapp2.1\StringEquals.runtimeconfig.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\bin\Debug\netcoreapp2.1\StringEquals.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\bin\Debug\netcoreapp2.1\StringEquals.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\bin\Debug\netcoreapp2.1\StringEquals.pdb
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.csprojAssemblyReference.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringEquals\obj\Debug\netcoreapp2.1\StringEquals.pdb

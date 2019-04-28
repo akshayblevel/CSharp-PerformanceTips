@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\bin\Debug\netcoreapp2.1\StringAdd.deps.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\bin\Debug\netcoreapp2.1\StringAdd.runtimeconfig.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\bin\Debug\netcoreapp2.1\StringAdd.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\bin\Debug\netcoreapp2.1\StringAdd.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\bin\Debug\netcoreapp2.1\StringAdd.pdb
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\obj\Debug\netcoreapp2.1\StringAdd.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\obj\Debug\netcoreapp2.1\StringAdd.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\obj\Debug\netcoreapp2.1\StringAdd.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\obj\Debug\netcoreapp2.1\StringAdd.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringAdd\obj\Debug\netcoreapp2.1\StringAdd.pdb

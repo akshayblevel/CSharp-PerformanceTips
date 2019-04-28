@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\bin\Debug\netcoreapp2.1\ListCountAny.deps.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\bin\Debug\netcoreapp2.1\ListCountAny.runtimeconfig.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\bin\Debug\netcoreapp2.1\ListCountAny.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\bin\Debug\netcoreapp2.1\ListCountAny.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\bin\Debug\netcoreapp2.1\ListCountAny.pdb
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\obj\Debug\netcoreapp2.1\ListCountAny.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\obj\Debug\netcoreapp2.1\ListCountAny.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\obj\Debug\netcoreapp2.1\ListCountAny.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\obj\Debug\netcoreapp2.1\ListCountAny.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\ListCountAny\obj\Debug\netcoreapp2.1\ListCountAny.pdb

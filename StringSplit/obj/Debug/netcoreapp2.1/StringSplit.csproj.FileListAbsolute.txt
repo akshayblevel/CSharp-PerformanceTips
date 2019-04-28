@@ -1,0 +1,11 @@
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\bin\Debug\netcoreapp2.1\StringSplit.deps.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\bin\Debug\netcoreapp2.1\StringSplit.runtimeconfig.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\bin\Debug\netcoreapp2.1\StringSplit.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\bin\Debug\netcoreapp2.1\StringSplit.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\bin\Debug\netcoreapp2.1\StringSplit.pdb
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.csprojAssemblyReference.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.AssemblyInfo.cs
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.dll
+D:\AKKI_DEV\RND\DotNetCore\PerformanceTips\StringSplit\obj\Debug\netcoreapp2.1\StringSplit.pdb
